@@ -1,0 +1,92 @@
+body {
+  background-color: white;
+
+  color: black;
+  font-family: "Open Sans", sans-serif;
+  letter-spacing: 2px;
+}
+
+.profile_img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+  margin-top: 10%;
+  height: auto;
+  max-width: 100px;
+
+  border-radius: 50%;
+}
+
+.slack {
+  text-align: center;
+
+  padding: 30px;
+  font-size: 28px;
+}
+
+.links {
+  text-align: center;
+  margin-top: 10px;
+  border-width: 2px;
+  padding: 30px;
+
+  width: 1200px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+  border-radius: 12px;
+
+  font-size: 18px;
+}
+
+a {
+  background-color: #e7e7e7; color: black; /* Gray */
+  border: none;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: block;
+  font-size: 18px;
+}
+
+a:hover {
+  color: black;
+  background-color: gray;
+}
+
+.img-container {
+        padding: 30px;
+        display: block;
+        margin: 0px auto;
+        float: center;
+      }
+
+.img {
+        padding: -10px;
+        display: block;
+        margin: 0px auto;
+        float: center;
+      }
+
+.zuri {
+        padding: 50px;
+        display: block;
+        margin: 0px auto;
+        float: left;
+      }
+
+.ifg {
+        padding: -100px;
+        float: right;
+      }
+
+.footerP{
+color:black;
+font-family:FiraSans-Regular, sans-serif;
+font-size:16px;
+text-align: center;
+padding: 50px;
+}
